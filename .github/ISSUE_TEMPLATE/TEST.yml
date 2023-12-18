@@ -64,7 +64,6 @@ body:
     placeholder: "Example: Whenever I visit the personal account page (1-2 times a week)"
   validations:
     required: true
-body:
 - type: dropdown
   id: download
   attributes:
